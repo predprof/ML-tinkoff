@@ -4,7 +4,7 @@ An introduction task to ML school 2023 from Tinkoff
 ## Installation
 To install the project, you need to clone this project from repository dy using command:
 ```bash
-git
+git clone https://github.com/predprof/ML-tinkoff.git
 ```
 
 ## Usage
